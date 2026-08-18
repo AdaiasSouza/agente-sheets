@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Credenciais — nunca commitar
+config/credenciais.json
+.env
+
+# Dados gerados
+data/parquet/*.parquet
+logs/*.log
