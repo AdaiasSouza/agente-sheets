@@ -219,6 +219,7 @@ __marimo__/
 
 # Credenciais — nunca commitar
 config/credenciais.json
+config/sheets.json
 .env
 
 # Dados gerados
