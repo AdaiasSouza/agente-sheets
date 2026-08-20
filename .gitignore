@@ -225,3 +225,4 @@ config/sheets.json
 # Dados gerados
 data/parquet/*.parquet
 logs/*.log
+logs/
